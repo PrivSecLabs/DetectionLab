@@ -1,4 +1,4 @@
-# VmWARE CONFIGURATION
+# VMwARE CONFIGURATION
 
 ## Objective
 
