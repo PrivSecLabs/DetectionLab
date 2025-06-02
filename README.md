@@ -22,3 +22,4 @@ This involved hands-on experience allocating RAM, storage, and CPU resources, as
 ## Steps
 ![Image Alt](https://github.com/PrivSecLabs/VmWareLab/blob/main/REF%201%20VM.png?raw=true)
 ![Image Alt](https://github.com/PrivSecLabs/VmWareLab/blob/main/REF%202%20VM.png?raw=true)
+![Image Alt](https://github.com/PrivSecLabs/VmWareLab/blob/main/REF%203%20VM.png?raw=true)
