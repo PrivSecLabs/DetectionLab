@@ -2,22 +2,22 @@
 
 ## Objective
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The main objective was to set up a C2 server on an AttackBox, deliver payloads to a virtual machine, detect the activity using an EDR solution, and develop custom rules to block future execution attempts. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The VMware Lab project demonstrated a VMware configuration setup with the primary objective of creating a virtual machine on a Windows OS. 
+This involved hands-on experience allocating RAM, storage, and CPU resources, as well as installing VMware Tools to ensure optimal VM performance..
 
 ### Skills Learned
 
-- Advanced knowledge of C2 server architecture, including configuration and payload delivery mechanisms.
-- Proficiency in analyzing interpreting network logs and identifying IOCs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols such as open ports and security vulnerabilities.
+- Advanced knowledge of VMware, including configuration and the difference of type 1 and type 2 hypervisors.
+- Proficiency in creating snapshots, installing VMware tools, and installing different operating systems.
+- Ability to recognize lag and research shell commands and change in settings to remediate slow performance.
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
 
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- VMware Workstation Pro 17.
+- Windows 10 ISO.
+- Command Prompt as Administrator.
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
