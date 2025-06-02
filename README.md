@@ -1,4 +1,4 @@
-# HAVOC C2 SERVER
+# VMWARE CONFIGURATION
 
 ## Objective
 
