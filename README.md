@@ -20,10 +20,4 @@ This involved hands-on experience allocating RAM, storage, and CPU resources, as
 - Command Prompt as Administrator.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
