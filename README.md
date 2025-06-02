@@ -20,4 +20,4 @@ This involved hands-on experience allocating RAM, storage, and CPU resources, as
 - Command Prompt as Administrator.
 
 ## Steps
-
+![Image Alt](https://github.com/PrivSecLabs/VmWareLab/blob/main/REF%201%20VM.png?raw=true)
